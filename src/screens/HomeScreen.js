@@ -21,26 +21,6 @@ const HomeScreen = () => {
       component={GirlScreen} 
       />
     </Tab.Navigator>
-    // <View
-    //   style={{
-    //     flex: 1,
-    //     justifyContent: 'center',
-    //     alignItems: 'center',
-    //   }}>
-    //   <Text>Hello I am ThanhNT 🎉</Text>
-    //   <TextInput
-    //     style={{height: 40}}
-    //     placeholder="Type here to translate!"
-    //     onChangeText={newText => setText(newText)}
-    //     defaultValue={text}
-    //   />
-    //   <Text style={{padding: 10, fontSize: 42}}>
-    //     {text
-    //       .split(' ')
-    //       .map(word => word && '🍕')
-    //       .join(' ')}
-    //   </Text>
-    // </View>
   );
 };
 
