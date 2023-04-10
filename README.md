@@ -3,9 +3,7 @@ This program is a mobile application. We will demomstrate that one is able to se
 
 ## Installation
 Run code javascript
-```
 node.js: https://nodejs.org/en 
-```
 
 Run code directly in devices
 ```
