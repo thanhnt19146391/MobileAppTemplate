@@ -1,5 +1,5 @@
-﻿# Budget Management Mobile App
-This app used to collect personal budget and import data to Google Sheet.
+﻿# Mobile App Template
+This is a template of mobile app.
 
 ## Platform need to install before development
 JavaScript runtime environment: node.js (https://nodejs.org/en)
