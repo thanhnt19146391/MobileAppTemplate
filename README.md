@@ -14,6 +14,7 @@ npm install -g expo-cli yarn
 ## Abbreviations:
 npm = Node Package Manager (https://docs.npmjs.com/about-npm)
 CLI = Command Line Interface
+npx = Node Package eXecute 
 
 ## Commands:
 Check version of node.js
@@ -26,7 +27,7 @@ Check version of npm
 npm -v
 ```
 
-Install packages  from package.json or create a new expo app with command below
+Install packages from package.json or create a new expo app with command below
 ```
 yarn install
 ```
