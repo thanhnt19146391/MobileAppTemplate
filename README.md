@@ -1,9 +1,10 @@
-﻿# Mobile programming
-This program is a mobile application. We will demomstrate that one is able to send and receive data with our API   
+﻿# Budget Management Mobile App
+This app used to collect personal budget and import data to Google Sheet.
 
-## Installation
-Run code javascript
-node.js: https://nodejs.org/en 
+## Platform need to install before development
+JavaScript runtime environment: node.js (https://nodejs.org/en)
+
+
 
 Run code directly in devices
 ```
@@ -11,11 +12,10 @@ npm install -g expo-cli yarn
 ```
 
 ## Abbreviations:
-npm - Node Package Manager (https://docs.npmjs.com/about-npm)
+npm = Node Package Manager (https://docs.npmjs.com/about-npm)
+CLI = Command Line Interface
 
-CLI - the Command Line Interface
-
-## Some commands:
+## Commands:
 Check version of node.js
 ```
 node -v
@@ -24,10 +24,6 @@ node -v
 Check version of npm
 ```
 npm -v
-```
-Download code from github
-```
-git clone https://github.com/thanhnt19146391/Mobile_programming.git
 ```
 
 Install packages  from package.json or create a new expo app with command below
@@ -45,4 +41,4 @@ Run expo server
 npx expo start
 ```
 
-## Some problems:
+## Difficulty:
